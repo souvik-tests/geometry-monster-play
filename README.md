@@ -6,7 +6,7 @@ Version 1.0.1
 
 This project is available as a sample project at GDevelop's website.
 
-[Play Now🛡️](https://github.com/souvik-tests/random-generator/blob/master/demo-apk/Random%20Generator.apk)
+[Play Now🛡️](https://souvik-tests.github.io/geometry-monster-play/index.html)
 
 # Screenshots:
 
